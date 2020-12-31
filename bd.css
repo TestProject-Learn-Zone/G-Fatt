@@ -1,0 +1,24 @@
+h1{
+    color: yellow;
+    text-align: center;
+    text-shadow: 2px 2px 2px red ;
+}
+body{
+    background-image: url('image/bd.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.one{
+    background-color: grey;
+    color: aqua;
+}
+audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+

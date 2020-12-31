@@ -1,0 +1,24 @@
+html,body{
+    font-family: "Roboto", sans-serif;
+}
+.w3-sidebar {
+    z-index: 3;
+    width: 250px;
+    top: 43px;
+    bottom: 0;
+    height: inherit;
+}
+.menu{
+    background-color: rgb(14, 2, 2);
+}
+.logo{
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px aqua;
+}
+img{
+    width:100%;
+}
+.some td{
+    text-align: center;
+}
